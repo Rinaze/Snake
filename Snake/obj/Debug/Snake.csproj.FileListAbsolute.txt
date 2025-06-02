@@ -1,0 +1,38 @@
+C:\Users\Rinaze\Desktop\proga\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Rinaze\Desktop\proga\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Rinaze\Desktop\proga\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Rinaze\Desktop\proga\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Rinaze\Desktop\proga\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Rinaze\Desktop\proga\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Rinaze\Desktop\proga\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Rinaze\Desktop\proga\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Rinaze\Desktop\proga\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Rinaze\Desktop\proga\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\bin\Debug\Snake.exe.config
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\bin\Debug\Snake.exe
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\bin\Debug\Snake.pdb
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\obj\Debug\Snake.exe
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\obj\Debug\Snake.pdb
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\obj\Debug\Snake.Form2.resources
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\obj\Debug\Snake.Form3.resources
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\obj\Debug\Snake.Form4.resources
+C:\Users\Rinaze\Desktop\proga\Snake2\Snake\obj\Debug\Snake.Form5.resources
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\bin\Debug\Snake.exe.config
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\bin\Debug\Snake.exe
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\bin\Debug\Snake.pdb
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\obj\Debug\Snake.Form2.resources
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\obj\Debug\Snake.Form3.resources
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\obj\Debug\Snake.Form4.resources
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\obj\Debug\Snake.Form5.resources
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\obj\Debug\Snake.exe
+C:\Users\Rinaze\Desktop\proga\Snake Калугина\Snake\obj\Debug\Snake.pdb
